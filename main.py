@@ -11,7 +11,7 @@ from sklearn.svm import SVC
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
-# feature reduction method, projects feeatures to lower dimensional space
+# feature reduction method, projects features to lower dimensional space
 from sklearn.decomposition import PCA
 
 
