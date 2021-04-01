@@ -9,3 +9,4 @@ SVM or SupportVectorMachines is a machine learning algorithm which could be used
 Random Forests work on the principle of Decision Trees. These trees help in classifying data based on their features. When multiple trees combine and work as an ensemble , it is called a Random Forest. Each tree in the Forest works individually to give out a class prediction and the prediction with heighest frequency is considered as the model's prediction.
 
 
+**Find my Web-App here : https://share.streamlit.io/parthrangarajan/wib-eda_streamlit/main/main.py**
